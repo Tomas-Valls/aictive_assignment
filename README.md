@@ -19,8 +19,8 @@ El presente trabajo se centra en el análisis de una serie de tiempo presentada 
 ----
 
 
-<span style="color:black;font-weight:700;font-size:10px">
-    **Hay un push post-entrega con la pequeña adición de un comentario, pueden ignorarlo si lo desean**
+<span style="color:black;font-weight:1000;font-size:7px;style:bold">
+    Hay un push post-entrega con la pequeña adición de un comentario, pueden ignorarlo si lo desean
 </span>
 
 
